@@ -1,0 +1,11 @@
+##API
+
+-Auth 
+-Food 
+-Restaurants
+-Menu 
+-Order 
+-Payment->Razorpay API
+-Reviews
+-User 
+-Image
